@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.hzh.instant.app",
+               "sha256_cert_fingerprints": ["CD:F6:C6:1A:40:87:B9:01:10:B1:A4:7B:00:A4:2D:68:32:4F:68:C6:3C:DC:2D:13:4D:9A:9D:95:B9:DA:1B:C4"] }
+}]
